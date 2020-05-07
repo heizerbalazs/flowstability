@@ -1,6 +1,6 @@
 # Flowstability
 
-Flowstability is a branch of fluid dynamics developed to study how laminar-turbulent transition happens. In this repo I present some computation methods used in stability analysis.
+Flowstability is a branch of fluid dynamics developed to study how laminar-turbulent transition happens. In this repo I present some computational methods used in stability analysis.
 
 ### Topics
 
